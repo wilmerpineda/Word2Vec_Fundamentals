@@ -1,0 +1,10 @@
+format: jb-book
+root: intro
+
+chapters:
+  - file: conceptos_word2vec
+  - file: 01_intuicion_word2vec
+  - file: 02_embeddings_a_mano_skipgram_sgns
+  - file: 03_word2vec_con_paquetes_gensim_spacy
+  - file: 04_preprocesamiento_real_word2vec_retos_cultura
+  - file: 05_visualizacion_espacio_semantico_word2vec_retos_cultura
